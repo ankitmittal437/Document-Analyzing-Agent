@@ -20,3 +20,4 @@ opencv-python-headless
 langchain-azure-ai
 Pillow>=9.0.0
 opencv-python-headless
+azure-search-documents
